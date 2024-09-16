@@ -5,11 +5,12 @@ const chess = new Chess();
 
 const boardElement = document.querySelector(".chessboard");
 // console.log("Board Element: ", boardElement); 
-
+ 
 
 let draggedPiece = null; 
 let sourceSquare = null;
 let playerRole = null;
+
 
 const renderBoard = () => {
     console.log("Rendering the board...");
