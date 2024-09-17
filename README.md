@@ -53,4 +53,5 @@ Implement AI to play against the computer.
 Contributing
 Feel free to submit issues or pull requests if you would like to contribute to this project.
 
-License
+
+
